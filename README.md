@@ -6,7 +6,7 @@ Welcom to my page!
 
 
 ## Education              		
-- M.S., Business Analytics	| The University of California, Davis _2024_	 		       		
+- M.S., Business Analytics	| The University of California, Davis (_2024_)	 		       		
 - B.S., Finance | The Pennsylvania State Univeristy (_2019_)
 
 ### Technical Skills
