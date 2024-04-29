@@ -4,11 +4,11 @@
 Welcome to my page!
 
 
-## Education              		
+## <span style="color: #0077b5;">Education</span>
 - M.S., Business Analytics	| The University of California, Davis (_2024_)	 		       		
 - B.S., Finance | The Pennsylvania State Univeristy (_2019_)
 
-### Technical Skills
+### <span style="color: #0077b5;">Technical Skills</span>
 - **Machine Learning**: sklearn, TensorFlow, PyTorch, Data Modeling
 - **Statistical Exploration**: A/B Testing, Time Series Analysis, Multivariate Analysis
 - **Database Management**: NoSQL
@@ -18,12 +18,11 @@ Welcome to my page!
 - **Cloud Computing**: AWS, GCP
 - **Big Data Analytics**: Hadoop, Spark, Kafka
 
-### Programming and Tools
+### <span style="color: #0077b5;">Programming and Tools</span>
 - Python, SQL, Microsoft Excel, R
 - GA4, Java, Apache Spark, AWS Redshift
 
-
-## Projects
+## <span style="color: #0077b5;">Projects</span>
 Here are some of the projects I've worked on, which reflect my skills and dedication to my field:
 
 ![Project Image](asset/Ozempic.png)
