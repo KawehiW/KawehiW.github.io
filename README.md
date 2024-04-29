@@ -5,11 +5,7 @@
 Welcom to my page!
 
 
-## Education
-- **MS Business Analytics**
-  - *UCD, San Francisco* — 2024
-- **BS Finance**
-  - *PSU, State College* — 2019               		
+## Education              		
 - M.S., Business Analytics	| The University of California, Davis _2024_	 		       		
 - B.S., Finance | The Pennsylvania State Univeristy (_2019_)
 
