@@ -19,8 +19,8 @@ Welcom to my page!
 - **Big Data Analytics**: Hadoop, Spark, Kafka
 
 ### Programming and Tools
-- Python | SQL  | Microsoft Excel| R
-- GA4    | Java | Apache Spark   | AWS Redshift
+- Python, SQL, Microsoft Excel, R
+- GA4, Java, Apache Spark, AWS Redshift
 
 
 ## Projects
