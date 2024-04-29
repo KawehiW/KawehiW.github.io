@@ -1,5 +1,8 @@
 # Data Scientist | Data Analyst
 Welcom to my page!
+## Connect with Me
+
+[![LinkedIn](/assets/linkedin.png)](https://www.linkedin.com/in/kawehi-w-3044b1199/) [![Gmail](/assets/gmail.png)](mailto:kawehiwang2022@gmail.com) [![Instagram](/assets/instagram.png)](https://www.instagram.com/kawehi_wang/) [![GitHub](/assets/github.png)](https://github.com/kawehiw)
 
 
 ## Education
