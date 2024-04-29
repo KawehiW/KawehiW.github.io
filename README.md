@@ -28,10 +28,10 @@ Here are some of the projects I've worked on, which reflect my skills and dedica
 ## Projects
 Here are some of the projects I've worked on, which reflect my skills and dedication to my field:
 
-- **[Ozempic's effects on patient health]**(https://github.com/KawehiW/Ozempic)
+- [Ozempic's effects on patient health](https://github.com/KawehiW/Ozempic)
 - ![Project Image](/assets/Ozempic.webp)
 
-- **[Fine-tuning large language model]**(https://github.com/KawehiW/Fine-Tuning-LLM)
+- [Fine-tuning large language model](https://github.com/KawehiW/Fine-Tuning-LLM)
 - ![Project Image](/assets/LLM.webp)
 
 
