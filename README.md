@@ -29,7 +29,7 @@ Here are some of the projects I've worked on, which reflect my skills and dedica
 ![Project Image](asset/Ozempic.png)
 - [Ozempic's effects on patient health](https://github.com/KawehiW/Ozempic)
 
-![Project Image](assets/LLM.png)
+![Project Image](asset/LLM.png)
 - [Fine-tuning large language model](https://github.com/KawehiW/Fine-Tuning-LLM)
 
 
