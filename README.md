@@ -9,7 +9,9 @@ Welcom to my page!
 - **MS Business Analytics**
   - *UCD, San Francisco* — 2024
 - **BS Finance**
-  - *PSU, State College* — 2019
+  - *PSU, State College* — 2019               		
+- M.S., Business Analytics	| The University of California, Davis _2024_	 		       		
+- B.S., Finance | The Pennsylvania State Univeristy (_2019_)
 
 ### Technical Skills
 - **Machine Learning**: sklearn, TensorFlow, PyTorch, Data Modeling
