@@ -6,3 +6,27 @@ gmail: kawehiwang2022@gmail.com
 github_url: https://github.com/KawehiW
 
 theme: jekyll-theme-minimal
+
+#####################################
+# --- Footer social media links --- #
+#####################################
+
+# Select the social network links that you want to show in the footer.
+# You can change the order that they show up on the page by changing the order here.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "kawehiwang2022@gmail.com"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: KawehiW
+  linkedin: kawehi-w-3044b1199
+
+  ###########################
+# --- General options --- #
+###########################
+
+# Select which social network share links to show in posts
+share-links-active:
+  github: true
+  email: true
+  linkedin: true
+  vk: false
