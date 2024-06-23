@@ -25,6 +25,9 @@ Welcome to my page!
 ## <span style="color: #0077b5;">Projects</span>
 Here are some of the projects I've worked on, which reflect my skills and dedication to my field:
 
+![Project Image](asset/Dashboard.png)
+- [Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformance_17191078268250/Salesdahsboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 ![Project Image](asset/Ozempic.png)
 - [Ozempic's effects on patient health](https://github.com/KawehiW/Ozempic)
 
